@@ -1,0 +1,32 @@
+.container {
+  text-align: center;
+  margin: 2em 0 5em 0;
+}
+.resetContainer {
+  border: 1px red solid;
+  margin-top: 20px;
+  text-align: center;
+  width: max-content;
+}
+.col {
+  margin-top: 20px;
+}
+.heading {
+  margin: 10vh 0 5vh 0;
+  font-family: "Klee One", cursive;
+  font-size: 5vh !important;
+  color: #0acdff;
+}
+.patrons {
+  margin: 10vh 0 5vh 0;
+  font-family: "Klee One", cursive;
+  font-size: 5vh !important;
+}
+
+.btn {
+  width: 300px;
+}
+.navbar {
+  justify-content: space-around !important;
+  font-size: 15px;
+}
